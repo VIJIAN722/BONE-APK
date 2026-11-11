@@ -1,0 +1,5 @@
+Como obtener el APK (gratis, sin instalar nada):
+1. Crea un repositorio en github.com y sube el contenido de esta carpeta (incluida .github).
+2. Ve a la pestana Actions -> "Build APK" (se ejecuta sola al subir, o pulsa Run workflow).
+3. Al terminar (unos 5 min), descarga "bone-type-apk" en Artifacts: dentro esta app-debug.apk.
+4. Copialo al telefono e instalalo (permite "instalar apps desconocidas").
